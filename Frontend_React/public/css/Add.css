@@ -1,0 +1,17 @@
+#bg-login-bandai{
+    background-image: url(/img/bandai-namco.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center center;
+}
+
+.over-members:hover{
+    background: #bbbbbb;
+}
+
+.select-state-act{
+    width: 100%;
+    border: none;
+    outline:none;
+    background: none;
+}
