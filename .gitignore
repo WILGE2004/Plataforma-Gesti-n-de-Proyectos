@@ -1,31 +1,31 @@
 # dependencies
-/frontend/node_modules
-/frontend/.pnp
-/frontend.pnp.js
+/Frontend_React/node_modules
+/Frontend_React/.pnp
+/Frontend_React.pnp.js
 
 # testing
-/frontend/coverage
+/Frontend_React/coverage
 
 # production
-/frontend/build
+/Frontend_React/build
 
 # misc
-/frontend.DS_Store
-/frontend.env.local
-/frontend.env.development.local
-/frontend.env.test.local
-/frontend.env.production.local
-/frontend/.env
+/Frontend_React.DS_Store
+/Frontend_React.env.local
+/Frontend_React.env.development.local
+/Frontend_React.env.test.local
+/Frontend_React.env.production.local
+/Frontend_React/.env
 
 /frontendnpm-debug.log*
 /frontendyarn-debug.log*
 /frontendyarn-error.log*
 
 # dependencies
-/backend/node_modules
+/Backend_Node/node_modules
 
 # production
-/backend/build
+/Backend_Node/build
 
 #env
-/backend/.env
+/Backend_Node/.env
